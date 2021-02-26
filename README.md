@@ -1,3 +1,11 @@
+# Este projeto recebeu Deploy pelo Netlify e pode ser visto neste link: https://search-books-challenge.netlify.app/
+
+Tecnologia utilizada: React.JS.
+
+Aplicaçao com reponsividade aplicada? Sim.
+
+Objetivo: Visualizar os livros disponibilizados pela API do Google (Google Books), também é possível buscar por categorias, visualizar a sinópse, preço, author, quantidade de páginas, disponibilidade de vendas e favoritar.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
